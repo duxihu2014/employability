@@ -1,0 +1,141 @@
+{
+  "technical_competence": {
+    "weight": 0.35,
+    "indicators": [],
+    "sub_dimensions": {
+      "programming_skills": {
+        "weight": 0.4,
+        "indicators": []
+      },
+      "framework_knowledge": {
+        "weight": 0.3,
+        "indicators": []
+      },
+      "system_design": {
+        "weight": 0.2,
+        "indicators": []
+      },
+      "problem_solving": {
+        "weight": 0.1,
+        "indicators": []
+      }
+    }
+  },
+  "soft_skills": {
+    "weight": 0.3,
+    "indicators": [],
+    "sub_dimensions": {
+      "communication": {
+        "weight": 0.3,
+        "indicators": []
+      },
+      "teamwork": {
+        "weight": 0.25,
+        "indicators": []
+      },
+      "learning_ability": {
+        "weight": 0.25,
+        "indicators": []
+      },
+      "leadership": {
+        "weight": 0.2,
+        "indicators": []
+      }
+    }
+  },
+  "experience_education": {
+    "weight": 0.2,
+    "indicators": [
+      "计算机相关专业"
+    ],
+    "sub_dimensions": {
+      "work_experience": {
+        "weight": 0.6,
+        "indicators": []
+      },
+      "education_background": {
+        "weight": 0.4,
+        "indicators": [
+          "计算机相关专业"
+        ]
+      }
+    }
+  },
+  "personal_qualities": {
+    "weight": 0.15,
+    "indicators": [],
+    "sub_dimensions": {
+      "responsibility": {
+        "weight": 0.4,
+        "indicators": []
+      },
+      "adaptability": {
+        "weight": 0.3,
+        "indicators": []
+      },
+      "innovation": {
+        "weight": 0.3,
+        "indicators": []
+      }
+    }
+  },
+  "criteria": {
+    "excellent": {
+      "score_range": [
+        90,
+        100
+      ],
+      "description": "优秀"
+    },
+    "good": {
+      "score_range": [
+        80,
+        89
+      ],
+      "description": "良好"
+    },
+    "average": {
+      "score_range": [
+        70,
+        79
+      ],
+      "description": "中等"
+    },
+    "below_average": {
+      "score_range": [
+        60,
+        69
+      ],
+      "description": "及格"
+    },
+    "poor": {
+      "score_range": [
+        0,
+        59
+      ],
+      "description": "不及格"
+    }
+  },
+  "report": {
+    "total_dimensions": 4,
+    "total_indicators": 1,
+    "dimension_statistics": {
+      "technical_competence": {
+        "weight": 0.35,
+        "indicator_count": 0
+      },
+      "soft_skills": {
+        "weight": 0.3,
+        "indicator_count": 0
+      },
+      "experience_education": {
+        "weight": 0.2,
+        "indicator_count": 1
+      },
+      "personal_qualities": {
+        "weight": 0.15,
+        "indicator_count": 0
+      }
+    }
+  }
+}
