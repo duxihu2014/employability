@@ -1,5 +1,5 @@
-1-job.json   岗位招聘原始数据
-2-processed_jobs.json  经自然语言处理过的招聘岗位数据
+1-job_100.json   岗位招聘原始数据
+2-processed_jobs_100.json  经自然语言处理过的招聘岗位数据
 由于job.json 文件1.98G,   processed_jobs.json 8.53G 数据文件太大，github只存储了前100条左右样例数据,
 全部数据放在个人360网盘中. 【论文数据】，点击链接查看https://v2.fangcloud.com/share/b786244e24b206b421ea4b264d 访问密码：111111
 3-extracted_indicators.json   经processed_jobs.json处理过的指标抽取原始结果文件
